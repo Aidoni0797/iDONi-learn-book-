@@ -97,4 +97,7 @@ intitle: "index.of" intext: "api.txt" - Поиск общедоступных ф
 
 inurl: "/includes/api/" intext: "index of /" - Поиск потенциально интересных API-каталогов№
 
-exp: php inurl: "api.php?action=" - поиск сайтов с уязвимость
+exp: php inurl: "api.php?action=" - поиск сайтов с уязвимостью XenAPI SQL Injection (на 2020 год найтеа 141 тысяча
+результатов по запросу? обнародованному в 2016 году)
+
+intitle: "index of" api_key OR "api key" OR apiKey-pool - поиск потенциально открытых API
